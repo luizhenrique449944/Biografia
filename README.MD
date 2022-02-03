@@ -2,6 +2,6 @@
 
 ## Biografia sobre min
 
-![Visualização do projeto](/IMG/IMAGEM_HTML.jpg)
+![Visualização do projeto](/IMG/Nova_imagem.jpg)
 
 
