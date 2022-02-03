@@ -1,7 +1,7 @@
 ## Bem-Vindo! 
 
-## Biografia sobre min
+## Biografia sobre min!
 
-![Visualização do projeto](/IMG/Nova_imagem.jpg)
+## <img src="IMG/Nova_imagem.gif" width="30px">
 
 
