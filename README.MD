@@ -2,6 +2,6 @@
 
 ## Biografia sobre min!
 
-## <img src="IMG/Nova_imagem.png" width="450px" height="350px">
+## <img src="DESIGN/Design_previws.png" width="1558px" height="1064px">
 
 
