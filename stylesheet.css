@@ -1,0 +1,73 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --cor0: #C438FD;
+    --cor1: #8032E3;
+    --cor2: #6243FA;
+    --cor3: #3244E3;
+    --cor4: #3880FD;
+    --cor5: #ff0000;
+    --cor6: #ee82ee;
+    --cor7: #800080;
+    --cor8: #3ddc84;
+}
+body {
+   margin-left: 10px;
+   background-color: aqua;
+   text-align: center;
+}
+h1 {
+    font-family: 'Vujahday Script', cursiva;
+    font-size: 45px;
+    font-weight: 400px;
+    background-image: linear-gradient(to right, var(--cor0), var(--cor1), var(--cor2), var(--cor3), var(--cor4));
+}
+h2 {
+    font-family: 'Dancing Script', cursiva;
+    font-size: 28px;
+}
+strong {
+    background-image: linear-gradient(to right, var(--cor8), transparent);
+}
+img {
+    width: 1200px;
+    height: 800px;
+    margin-bottom: 10px;
+}
+ul > li {
+    font-family: 'Dancing Script', cursiva;
+    font-size: 24px;
+}
+ul > li:hover {
+    text-decoration: underline;
+    color: var(--cor5);
+    cursor: pointer;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+ol> li {
+    font-size: 23px;
+    font-style: oblique;
+}
+ol > li:hover {
+    text-decoration: underline;
+    color: var(--cor6);
+    cursor: pointer;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+em {
+    background-image: linear-gradient(to right, var(--cor8), transparent);
+}
+a {
+    font-size: 24px;
+}
+a:hover {
+    font-size: 30px;
+    color: var(--cor7);
+    font-style: italic;
+    transition-duration: 1s;
+}
